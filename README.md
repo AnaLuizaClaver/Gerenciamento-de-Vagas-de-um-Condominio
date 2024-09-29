@@ -36,10 +36,3 @@ Este projeto foi desenvolvido como parte das atividades da disciplina de Banco d
     - Listagem de vagas ocupadas ou vagas "vagas".
     - Consultas utilizando junções (`JOIN`) entre as tabelas.
 
-## Consultas SQL
-
-### Aniversariantes de Setembro
-```sql
-SELECT nome, dtaniv
-FROM clientes
-WHERE EXTRACT(MONTH FROM dtaniv) = 9;
