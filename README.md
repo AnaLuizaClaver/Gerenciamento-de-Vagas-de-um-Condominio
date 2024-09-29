@@ -36,5 +36,15 @@ Este projeto foi desenvolvido como parte das atividades da disciplina de Banco d
     - Listagem de vagas ocupadas ou vagas "vagas".
     - Consultas utilizando junções (`JOIN`) entre as tabelas.
 
-Desenvolvido por Ana Luiza Claver
+## Desenvolvido por
+
+Este projeto foi desenvolvido por [Ana Luiza Claver](https://github.com/AnaLuizaClaver). Sinta-se à vontade para entrar em contato em caso de dúvidas ou sugestões.
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnaLuizaClaver)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analuizaclaver/)
+
+## Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](LICENSE), permitindo cópia, modificação e distribuição, desde que os créditos sejam mantidos. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
 
