@@ -36,3 +36,5 @@ Este projeto foi desenvolvido como parte das atividades da disciplina de Banco d
     - Listagem de vagas ocupadas ou vagas "vagas".
     - Consultas utilizando junções (`JOIN`) entre as tabelas.
 
+Desenvolvido por Ana Luiza Claver
+
